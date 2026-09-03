@@ -1,4 +1,3 @@
-# HR_Employee_attrition
 # IBM HR Analytics — Employee Attrition
 
 
@@ -90,6 +89,3 @@ YearsAtCompany — early tenure is risky </br>
 DistanceFromHome — mild but consistent signal </br>
 
 
-└── requirements.txt
-
-📜 License
